@@ -1,5 +1,7 @@
 
-# Computer Networking ResouresThe Basics of Networking Devices
+# Computer Networking Resoures
+
+# The Basics of Networking Devices
 
 ## Introduction to Networking
 
