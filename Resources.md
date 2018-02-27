@@ -25,6 +25,23 @@ https://www.youtube.com/watch?v=CGMtK4woT_I&feature=youtu.be&t=15m12s
 
 https://www.youtube.com/watch?v=iwj8ZgyzqZk
 
+## Checksum
+
+https://www.youtube.com/watch?v=RFOGDY2e0mQ
+
+
+## IP Header: Networking & TCP/IP Tutorial. TCP/IP Explained
+
+https://www.youtube.com/watch?v=UrO-9Uagn24
+
+
+## Network Layer Video 1
+
+https://www.youtube.com/watch?v=1h1LMvooYeg
+
+
+
+
 
 
 
