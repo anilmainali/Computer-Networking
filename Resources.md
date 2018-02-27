@@ -1,7 +1,31 @@
 
+# Computer Networking ResouresThe Basics of Networking Devices
+
+## Introduction to Networking
+
+## The TCP/IP Five-Layer Network Model
+
+## The Basics of Networking Devices
+
+## The Physical Layer
+
+## The Data Link Layer
+
+## The Network Layer
+
+## The Transport and Application Layers
+
+
+
+
+
+
+
+
+
 # Computer Networking Resoures
 
-## Networking 101: TCP/IP, DNS, and Routers
+## Networking 101: TCP/IP, DNS, and RoutersThe TCP/IP Five-Layer Network Model
 
 https://www.youtube.com/watch?v=CdoB-qKt2Fc
 
