@@ -57,6 +57,13 @@ http://www.informit.com/articles/article.aspx?p=29578&seqNum=5
 
 https://www.youtube.com/watch?v=HRQkdSKz5TU&feature=youtu.be&t=9m6s
 
+## ebook
+http://www.it-docs.net/ddata/140.pdf
+
+## github
+https://github.com/bregman-arie/computer-networking
+
+
 
 
 
