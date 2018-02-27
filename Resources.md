@@ -39,6 +39,26 @@ https://www.youtube.com/watch?v=UrO-9Uagn24
 
 https://www.youtube.com/watch?v=1h1LMvooYeg
 
+## The Network Layer
+
+https://www.youtube.com/watch?v=bCpW0Y09vxM
+
+## Packets in Networking (Part 2) - Example of IP Datagram
+
+https://www.youtube.com/watch?v=h_Bb5v-Hlbo
+
+
+## TCP/IP: The Internet Layer Protocol
+
+http://www.informit.com/articles/article.aspx?p=29578&seqNum=5
+
+
+## Pluralsight Webinar: Networking Fundamentals: Master the OSI Model and TCP/IP in Under 1 Hour
+
+https://www.youtube.com/watch?v=HRQkdSKz5TU&feature=youtu.be&t=9m6s
+
+
+
 
 
 
