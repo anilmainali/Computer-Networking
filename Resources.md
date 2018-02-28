@@ -140,6 +140,10 @@ https://youtu.be/HEEnLZV2wGI
 
 https://www.youtube.com/watch?v=Dppl6iA2G8Q
 
+## What is OSI Model - How To Crack IBPS IT Officer Exam | Preparation Strategy 2017 | PART-5
+
+https://www.youtube.com/watch?v=-e2qhXHgMp8
+
 
 
 
