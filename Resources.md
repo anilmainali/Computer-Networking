@@ -127,6 +127,10 @@ https://youtu.be/KOxdqo4eAZM
 
 https://youtu.be/HEEnLZV2wGI
 
+## OSI MODEL in Hindi/Urdu-Bhupinder Rajput
+
+https://www.youtube.com/watch?v=Dppl6iA2G8Q
+
 
 
 
