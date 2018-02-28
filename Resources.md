@@ -32,6 +32,10 @@
 
 https://www.youtube.com/watch?v=q7wNcYliJ1Q
 
+- SUBNETTING In Computer Network | How To Find Subnet Mask, Network ID, Host IP Address & Broadcast ID
+
+https://www.youtube.com/watch?v=LdSAaSHfK3M&list=PLYtUYwNCm8ZO_tO2kDpu5WbatLE0ag4Vw&index=16
+
 ## Networking 101: TCP/IP, DNS, and RoutersThe TCP/IP Five-Layer Network Model
 
 https://www.youtube.com/watch?v=CdoB-qKt2Fc
