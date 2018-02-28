@@ -26,6 +26,11 @@
 
 
 # Computer Networking Resoures
+# Best So Far: 
+
+- Basics of Subnetting | How to find Subnet Mask, Network ID, Host IP Address from CIDR Value | 2018
+
+https://www.youtube.com/watch?v=q7wNcYliJ1Q
 
 ## Networking 101: TCP/IP, DNS, and RoutersThe TCP/IP Five-Layer Network Model
 
