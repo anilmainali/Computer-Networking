@@ -91,6 +91,44 @@ https://github.com/bregman-arie/computer-networking
 
 ## https://networklessons.com/
 
+## Routers, Switches, Packets and Frames 
+
+https://youtu.be/zhlMLRNY5-4
+
+## Introduction to TCP/IP Networking and the OSI 
+
+https://youtu.be/v4dlvtDVrYk
+
+## TCP/IP: TCP, UDP, IP, ICMP, ARP, The Four-layer DOD model and Seven-layer OSI model 
+
+https://youtu.be/0vbIqZPDrOY
+
+## UDP and TCP: Comparison of Transport Protocols https://youtu.be/Vdc8TCESIg8
+
+Hub, Switch or Router? Network Devices Explained https://youtu.be/Ofjsh_E4HFY
+
+## How it works? Internet TCI/IP in work, networking, data transfer 
+
+https://youtu.be/E-w4ybYrtTQ
+
+## The OSI Model Animation 
+
+https://youtu.be/-6Uoku-M6oY
+
+## IPv4 Addressing Lesson 2: Network IDs and Subnet Masks 
+
+https://youtu.be/XQ3T14SIlV4
+
+## Fun and Easy Ethernet - How the Ethernet Protocol Works
+
+https://youtu.be/KOxdqo4eAZM
+
+## The OSI Model Demystified 
+
+https://youtu.be/HEEnLZV2wGI
+
+
+
 
 
 
