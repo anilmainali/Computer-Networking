@@ -32,6 +32,10 @@
 
 https://www.youtube.com/watch?v=_b5dBF-Kyk4
 
+- OSI MODEL EXPLAINED IN DEPTH
+
+https://www.youtube.com/watch?v=ZlfmhhDCz8s
+
 - OSI model in hindi. best explain..
 
 https://www.youtube.com/watch?v=txT7wasBUAo&list=PL9S5PijM_nWz0Wx-V8jWmbyqjh7XL3BbA
