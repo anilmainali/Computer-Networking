@@ -28,6 +28,10 @@
 # Computer Networking Resoures
 # Best So Far: 
 
+- OSI model in hindi. best explain..
+
+https://www.youtube.com/watch?v=txT7wasBUAo&list=PL9S5PijM_nWz0Wx-V8jWmbyqjh7XL3BbA
+
 - Basics of Subnetting | How to find Subnet Mask, Network ID, Host IP Address from CIDR Value | 2018
 
 https://www.youtube.com/watch?v=q7wNcYliJ1Q
