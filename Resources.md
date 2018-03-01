@@ -28,6 +28,10 @@
 # Computer Networking Resoures
 # Best So Far: 
 
+- What is OSI model in Hindi | Free CCNA 200-125 training videos | part 1
+
+https://www.youtube.com/watch?v=_b5dBF-Kyk4
+
 - OSI model in hindi. best explain..
 
 https://www.youtube.com/watch?v=txT7wasBUAo&list=PL9S5PijM_nWz0Wx-V8jWmbyqjh7XL3BbA
