@@ -34,6 +34,10 @@ https://www.youtube.com/watch?v=_b5dBF-Kyk4
 
 - OSI model in hindi. best explain..
 
+- OSI Reference Model Layers
+
+http://www.tcpipguide.com/free/t_OSIReferenceModelLayers.htm
+
 https://www.youtube.com/watch?v=txT7wasBUAo&list=PL9S5PijM_nWz0Wx-V8jWmbyqjh7XL3BbA
 
 - Basics of Subnetting | How to find Subnet Mask, Network ID, Host IP Address from CIDR Value | 2018
